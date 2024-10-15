@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/build",
+  "command": "/usr/bin/c++ -DMAPS_DIR=\\\"/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/maps\\\" -DOUTPUT_DIR=\\\"/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/output\\\" -I/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/include -g -std=gnu++14 -o CMakeFiles/run_test.dir/src/utils.cpp.o -c /home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/src/utils.cpp",
+  "file": "/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/src/utils.cpp"
+},
+{
+  "directory": "/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/build",
+  "command": "/usr/bin/c++ -DMAPS_DIR=\\\"/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/maps\\\" -DOUTPUT_DIR=\\\"/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/output\\\" -I/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/include -g -std=gnu++14 -o CMakeFiles/run_test.dir/src/planner.cpp.o -c /home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/src/planner.cpp",
+  "file": "/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/src/planner.cpp"
+},
+{
+  "directory": "/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/build",
+  "command": "/usr/bin/c++ -DMAPS_DIR=\\\"/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/maps\\\" -DOUTPUT_DIR=\\\"/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/output\\\" -I/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/include -g -std=gnu++14 -o CMakeFiles/run_test.dir/src/runtest.cpp.o -c /home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/src/runtest.cpp",
+  "file": "/home/kaust/Downloads/16782_HW1_fall24_v1/16782-HW1/code/src/runtest.cpp"
+}
+]
