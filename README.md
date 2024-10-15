@@ -2,4 +2,4 @@
 
 Heuristic used: Backward Djikstra
 Additional feature: Backtracks traget's trajectory if it reaches a point that is ahead of target
-
+More details in PlanningHW1.pdf
